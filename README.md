@@ -12,6 +12,8 @@ pyutils is a Python library that contains a collection of small, reusable functi
   - is_valid_email(email: str): Returns a boolean indicating if the email is valid.
   - is_valid_phone_number(phone_number: str): Returns a boolean indicating if the phone number is valid.
   - is_valid_url(url: str): Returns a boolean indicating if the URL is valid.
+- utils.py
+  - clear(): clears the screen
 
 ## Usage
 
